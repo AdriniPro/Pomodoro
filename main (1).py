@@ -80,3 +80,4 @@ boton2 = Button(ventana,text="Salir",bg="red",fg="white",width=5,font="arial 10 
 boton2.place(x=520,y=350)
 
 ventana.mainloop()
+"""Si hablas español , puedes editar este codigo :p"""
